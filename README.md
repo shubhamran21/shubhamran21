@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Ransingh
 - 👀 I’m full stack developer
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me https://www.linkedin.com/in/shubham-ransingh-b24a97173
 
